@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Anargha V P
 
-### 💻 Computer Science Engineering Student | Full Stack Developer | AI Enthusiast
+### 💻 Computer Science Engineering Student | Full Stack Developer | AI Enthusiast | Data Analyst
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Computer+Science+Engineering+Student;Full+Stack+Web+Developer;Python+Developer;AI+%26+Machine+Learning+Enthusiast;Always+Learning+New+Technologies" />
 
@@ -24,7 +24,7 @@
 
 ---
 
-# 👩‍💻 About Me
+# About Me
 
 I'm **Anargha V P**, a passionate **Computer Science Engineering** student who enjoys building practical software solutions and continuously exploring new technologies.
 
@@ -33,7 +33,7 @@ I have experience developing **full-stack web applications** using **HTML, CSS, 
 Currently, I am expanding my knowledge in **Artificial Intelligence, Machine Learning, Cybersecurity, and Cloud Computing**, while strengthening my software engineering and problem-solving skills.
 
 ---
-## 💻 Tech Stack
+## Tech Stack
 
 ### 💻 Programming Languages
 
@@ -76,11 +76,11 @@ A responsive **full-stack health application** designed to help users calculate 
 
 ### Key Features
 
-- 🔐 User Authentication
-- 👤 Profile Management
-- 📈 BMI History
-- 💡 Personalized Health Tips
-- 📱 Responsive Design
+-  User Authentication
+-  Profile Management
+-  BMI History
+-  Personalized Health Tips
+-  Responsive Design
 
 **Tech Stack**
 
@@ -94,11 +94,11 @@ An academic collaboration platform that enables students to share knowledge thro
 
 ### Key Features
 
-- 👨‍🎓 Student Authentication
-- ❓ Question & Answer Forum
-- 🤖 NLP-Based Subject Classification
-- 📚 Academic Discussions
-- 📱 Responsive Interface
+-  Student Authentication
+-  Question & Answer Forum
+-  NLP-Based Subject Classification
+-  Academic Discussions
+-  Responsive Interface
 
 **Tech Stack**
 
@@ -137,7 +137,7 @@ An academic collaboration platform that enables students to share knowledge thro
 
 ---
 
-# 🌱 Currently Exploring
+#  Currently Exploring
 
 - Artificial Intelligence
 - Machine Learning
@@ -145,17 +145,6 @@ An academic collaboration platform that enables students to share knowledge thro
 - Cloud Computing
 - Open Source
 - Data Structures & Algorithms
-
----
-
-# 🎯 2026 Goals
-
-- 🚀 Become a Professional Full Stack Developer
-- 🤖 Build AI-powered Applications
-- 💼 Secure a Software Development Role
-- 🌍 Contribute to Open Source Projects
-- 📚 Strengthen Problem Solving & DSA
-- ☁️ Learn Cloud Technologies
 
 ---
 
@@ -189,6 +178,6 @@ An academic collaboration platform that enables students to share knowledge thro
 
 ### ⭐ Thanks for visiting my profile!
 
-**Keep Learning • Keep Building • Never Stop Growing 🚀**
+**Keep Learning • Keep Building • Never Stop Growing **
 
 </div>
