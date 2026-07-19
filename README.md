@@ -65,8 +65,7 @@
 <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
 
 <br><br>
-
-
+---
 ## 🚀 Featured Projects
 
 ### 🩺 BMI Calculator Website
@@ -118,7 +117,7 @@
 
 ## 🏅 Achievements
 
-🥈 STRIDE Makethon 2025 Finalist
+🏅 STRIDE Makethon 2025 Finalist
 
 🎮 Participated in Vyvidh'24 2D Game Development Workshop
 
