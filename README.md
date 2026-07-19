@@ -20,10 +20,6 @@
   <img src="https://img.shields.io/github/followers/anargha11?style=for-the-badge&logo=github&label=Followers"/>
 </a>
 
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=anargha11&style=for-the-badge&color=blue" alt="Profile Views"/>
-
 </div>
 
 ---
