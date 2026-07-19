@@ -17,7 +17,7 @@
 </a>
 
 <a href="https://github.com/anargha11">
-  <img src="https://img.shields.io/github/followers/anargha11?style=for-the-badge&logo=github&label=Followers"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
