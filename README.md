@@ -66,14 +66,6 @@
 
 <br><br>
 
-<img src="https://img.shields.io/badge/GIT-F05032?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_CODE-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/LEAFLET-199900?style=flat-square&logo=leaflet&logoColor=white"/>
-<img src="https://img.shields.io/badge/CHART.JS-FF6384?style=flat-square&logo=chartdotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/MS_OFFICE-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white"/>
-
-</p>
 
 ## 🚀 Featured Projects
 
