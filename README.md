@@ -164,15 +164,15 @@ An academic collaboration platform that enables students to share knowledge thro
 <p align="left">
 
 <a href="mailto:anarghaa767@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="48"/>
+<img src="https://cdn.simpleicons.org/gmail/EA4335" width="45"/>
 </a>
 
 <a href="https://www.linkedin.com/in/anargha-v-p-024a034315">
-<img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
+<img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="45"/>
 </a>
 
 <a href="https://github.com/anargha11">
-<img src="https://skillicons.dev/icons?i=github" width="48"/>
+<img src="https://cdn.simpleicons.org/github/ffffff" width="45"/>
 </a>
 
 </p>
