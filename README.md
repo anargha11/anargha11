@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm Anamika A B
+# Hi 👋, I'm Anargha V P !
 
 ### 💻 Computer Science Engineering Student | Full Stack Developer | Machine Learning Enthusiast
 
