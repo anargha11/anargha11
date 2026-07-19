@@ -1,171 +1,29 @@
 <div align="center">
 
-# Hi 👋, I'm Anargha V P
+# Hi 👋, I'm Anamika A B
 
-### 💻 Computer Science Engineering Student | Full Stack Developer | AI Enthusiast
+### 💻 Computer Science Engineering Student | Full Stack Developer | Machine Learning Enthusiast
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Computer+Science+Engineering+Student;Full+Stack+Developer;Machine+Learning+Enthusiast;Cybersecurity+Learner;Always+Learning+Something+New" />
+
+<br>
+
+<a href="mailto:abanamika26@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/anamikaab/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/ab-anamika26">
+  <img src="https://img.shields.io/github/followers/ab-anamika26?style=for-the-badge&logo=github&label=Followers"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=ab-anamika26&style=for-the-badge&color=blue" alt="Profile Views"/>
 
 </div>
 
 ---
-
-## 👩‍💻 About Me
-
-🎓 Third-Year B.Tech Computer Science & Engineering Student
-
-💡 Passionate about building software that solves real-world problems through innovative and user-friendly applications.
-
-🌱 **Currently Learning**
-
-- 🌐 Full Stack Web Development
-- 🐍 Python & Django
-- 🤖 Artificial Intelligence & Machine Learning
-- 📚 Data Structures & Algorithms
-- 🔧 Git & GitHub
-
-💬 **Interested In**
-
-- 💻 Software Development
-- 🌐 Web Development
-- 🤖 AI & Machine Learning
-- 🛡️ Cybersecurity
-- 🚀 Open Source
-- ☁️ Cloud Computing
-
----
-
-## 🛠 Tech Stack
-
-### 💻 Programming Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=c,java,python,javascript,php" />
-</p>
-
-### 🎨 Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript" />
-</p>
-
-### ⚙️ Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=django,php" />
-</p>
-
-### 🗄️ Database
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
-</p>
-
-### 🛠 Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
-
----
-
-## 📈 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=anargha11&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anargha11&layout=compact&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=anargha11&theme=tokyonight"/>
-
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=anargha11&theme=tokyonight&margin-w=15&margin-h=15"/>
-
-</p>
-
----
-
-## 📊 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anargha11&theme=tokyo-night"/>
-
-</p>
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| 🩺 **BMI Calculator Website** | Responsive BMI calculator with authentication, BMI history, and health tips. | HTML, CSS, JavaScript, PHP, MySQL |
-| 🎓 **Peer Skill** | Peer-to-peer learning platform with NLP-based question categorization. | Django, Python, HTML, CSS, JavaScript, SQLite/MySQL |
-
----
-
-## 🎓 Certifications
-
-- 🏅 NPTEL – Introduction to Machine Learning
-- 🏅 Infosys Springboard – Programming Fundamentals Using Python
-- 🏅 IIT Bombay – Python Programming
-- 🏅 IIT Bombay – PHP & MySQL
-- 🏅 Web Development Certification
-- 🏅 AI & Technology Workshops
-
----
-
-## 📚 Currently Exploring
-
-- 🤖 Artificial Intelligence
-- 🧠 Machine Learning
-- ☁️ Cloud Computing
-- 🛡️ Cybersecurity
-- 🚀 Open Source
-
----
-
-## 🎯 2026 Goals
-
-- 🚀 Become a Professional Full Stack Developer
-- 🤖 Build AI-powered Applications
-- 💡 Develop More Real-World Projects
-- 🏆 Secure a Software Development Internship
-- 🌍 Contribute to Open Source
-- 📚 Master Data Structures & Algorithms
-
----
-
-## 📫 Connect With Me
-
-📧 **Email:** anarghaa767@gmail.com
-
-💼 **LinkedIn:** https://linkedin.com/in/anargha-v-p-024a034315
-
-💻 **GitHub:** https://github.com/anargha11
-
----
-
-## 💭 Favorite Quote
-
-> **"Success is built one commit at a time."** 🚀
-
----
-
-<div align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-**Keep Learning • Keep Building • Never Stop Growing 🚀**
-
-</div>
