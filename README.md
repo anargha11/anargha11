@@ -159,19 +159,23 @@ An academic collaboration platform that enables students to share knowledge thro
 
 ---
 
-# 📫 Connect With Me
+## 📫 Connect With Me
 
-📧 **Email**
+<p align="left">
 
-**anarghaa767@gmail.com**
+<a href="mailto:anarghaa767@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="48"/>
+</a>
 
-💼 **LinkedIn**
+<a href="https://www.linkedin.com/in/anargha-v-p-024a034315">
+<img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
+</a>
 
-https://linkedin.com/in/anargha-v-p-024a034315
+<a href="https://github.com/anargha11">
+<img src="https://skillicons.dev/icons?i=github" width="48"/>
+</a>
 
-💻 **GitHub**
-
-https://github.com/anargha11
+</p>
 
 ---
 
