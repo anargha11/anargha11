@@ -49,78 +49,31 @@
 - Cloud Computing
 
 ---
-
-## 🛠 Tech Stack
-
-### 💻 Programming Languages
+## 💻 Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=c,java,python,javascript,php"/>
-</p>
 
-### 🎨 Frontend
+<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/JAVA-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/DJANGO-092E20?style=flat-square&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/MYSQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,javascript"/>
-</p>
+<br><br>
 
-### ⚙️ Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=django,php"/>
-</p>
-
-### 🗄️ Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,sqlite"/>
-</p>
-
-### 🛠 Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
-</p>
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=anargha11&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anargha11&layout=compact&theme=tokyonight"/>
+<img src="https://img.shields.io/badge/GIT-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_CODE-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/LEAFLET-199900?style=flat-square&logo=leaflet&logoColor=white"/>
+<img src="https://img.shields.io/badge/CHART.JS-FF6384?style=flat-square&logo=chartdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/MS_OFFICE-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white"/>
 
 </p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=anargha11&theme=tokyonight"/>
-
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=anargha11&theme=tokyonight&margin-w=15&margin-h=15"/>
-
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anargha11&theme=tokyo-night"/>
-
-</p>
-
----
 
 ## 🚀 Featured Projects
 
