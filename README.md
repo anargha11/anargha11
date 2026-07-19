@@ -33,77 +33,38 @@ I have experience developing **full-stack web applications** using **HTML, CSS, 
 Currently, I am expanding my knowledge in **Artificial Intelligence, Machine Learning, Cybersecurity, and Cloud Computing**, while strengthening my software engineering and problem-solving skills.
 
 ---
-
-# 🚀 Tech Stack
+## 💻 Tech Stack
 
 ### 💻 Programming Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=c,java,python" />
-</p>
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/JAVA-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ### 🎨 Frontend
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js" />
-</p>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Leaflet](https://img.shields.io/badge/LEAFLET-199900?style=flat-square&logo=leaflet&logoColor=white)
+![Chart.js](https://img.shields.io/badge/CHART.JS-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)
 
 ### ⚙️ Backend
 
-<p>
-<img src="https://skillicons.dev/icons?i=django,php" />
-</p>
+![Django](https://img.shields.io/badge/DJANGO-092E20?style=flat-square&logo=django&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
 ### 🗄️ Database
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,sqlite" />
-</p>
+![MySQL](https://img.shields.io/badge/MYSQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLITE-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
-### 🛠️ Tools & Technologies
+### 🛠️ Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-<img src="https://go-skill-icons.vercel.app/api/icons?i=leaflet,chartjs" />
-</p>
-
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=anargha11&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anargha11&layout=compact&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=anargha11&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=anargha11&theme=tokyonight&row=1&column=7"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anargha11&theme=tokyo-night"/>
-
-</p>
+![Git](https://img.shields.io/badge/GIT-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_CODE-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![MS Office](https://img.shields.io/badge/MS_OFFICE-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white)
 
 ---
 
