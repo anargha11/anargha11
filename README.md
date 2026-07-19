@@ -118,12 +118,12 @@ An academic collaboration platform that enables students to share knowledge thro
 
 # 📜 Certifications
 
-- 🎖 Introduction to Machine Learning — NPTEL
-- 🎖 Programming Fundamentals Using Python — Infosys Springboard
-- 🎖 Python Programming — IIT Bombay
-- 🎖 PHP & MySQL — IIT Bombay
-- 🎖 Web Development Certification
-- 🎖 AI & Technology Workshop
+-  Introduction to Machine Learning — NPTEL
+-  Programming Fundamentals Using Python — Infosys Springboard
+-  Python Programming — IIT Bombay
+-  PHP & MySQL — IIT Bombay
+-  Web Development Certification
+-  AI & Technology Workshop
 
 ---
 
