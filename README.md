@@ -161,18 +161,18 @@ An academic collaboration platform that enables students to share knowledge thro
 
 ## 📫 Connect With Me
 
-<p align="left">
+<p>
 
 <a href="mailto:anarghaa767@gmail.com">
-<img src="https://cdn.simpleicons.org/gmail/EA4335" width="45"/>
+<img src="https://img.shields.io/badge/GMAIL-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/anargha-v-p-024a034315">
-<img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="45"/>
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/anargha11">
-<img src="https://cdn.simpleicons.org/github/ffffff" width="45"/>
+<img src="https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=github&logoColor=white"/>
 </a>
 
 </p>
