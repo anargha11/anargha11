@@ -25,30 +25,6 @@
 ---
 <div align="center">
 
-# Hi 👋, I'm Anargha V P
-
-### 💻 Computer Science Engineering Student | Full Stack Developer | AI Enthusiast
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Computer+Science+Engineering+Student;Full+Stack+Developer;AI+Enthusiast;Python+Developer;Always+Learning+Something+New" />
-
-<br>
-
-<a href="mailto:anarghaa767@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/anargha-v-p-024a034315">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/anargha11">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
----
-
 ## 👩‍💻 About Me
 
 🎓 Third-Year B.Tech Computer Science & Engineering Student
@@ -75,40 +51,31 @@
 
 ---
 
-## 🛠 Tech Stack
+## 💻 Tech Stack
 
-### 💻 Programming Languages
+<p align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=c,java,python,javascript,php"/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/DJANGO-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/LEAFLET-199900?style=for-the-badge&logo=leaflet&logoColor=white"/>
+<img src="https://img.shields.io/badge/CHART.JS-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/MS_OFFICE-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white"/>
+
 </p>
-
-### 🎨 Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,javascript"/>
-</p>
-
-### ⚙️ Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=django,php"/>
-</p>
-
-### 🗄️ Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,sqlite"/>
-</p>
-
-### 🛠 Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
-</p>
-
----
-
 # 🚀 Featured Projects
 
 ### 🩺 BMI Calculator Website
