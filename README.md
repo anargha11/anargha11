@@ -1,47 +1,50 @@
-# Hi 👋 I'm Anargha V P
+<div align="center">
+
+# Hi 👋, I'm Anargha V P
 
 ### 💻 Computer Science Engineering Student | Full Stack Developer | AI Enthusiast
 
+</div>
+
 ---
 
-# 👩‍💻 About Me
+## 👩‍💻 About Me
 
-🎓 Third-Year B.Tech Computer Science Engineering Student
+🎓 Third-Year B.Tech Computer Science & Engineering Student
 
 💡 Passionate about building software that solves real-world problems through innovative and user-friendly applications.
 
-🌱 Currently Learning
+🌱 **Currently Learning**
 
-- Full Stack Web Development
-- Python & Django
-- Artificial Intelligence
-- Machine Learning
-- Data Structures & Algorithms
-- Git & GitHub
+- 🌐 Full Stack Web Development
+- 🐍 Python & Django
+- 🤖 Artificial Intelligence & Machine Learning
+- 📚 Data Structures & Algorithms
+- 🔧 Git & GitHub
 
-💬 Interested in
+💬 **Interested In**
 
+- 💻 Software Development
 - 🌐 Web Development
-- 🤖 Artificial Intelligence
-- 💻 Software Engineering
-- 🚀 Open Source
+- 🤖 AI & Machine Learning
 - 🛡️ Cybersecurity
-- 📊 Machine Learning
+- 🚀 Open Source
+- ☁️ Cloud Computing
 
 ---
 
-# 🚀 Tech Stack
+## 🛠 Tech Stack
 
 ### 💻 Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c,java,python,js,php" />
+  <img src="https://skillicons.dev/icons?i=c,java,python,javascript,php" />
 </p>
 
 ### 🎨 Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript" />
 </p>
 
 ### ⚙️ Backend
@@ -56,7 +59,7 @@
   <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
 </p>
 
-### 🛠️ Tools
+### 🛠 Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
@@ -64,7 +67,7 @@
 
 ---
 
-# 📊 GitHub Analytics
+## 📈 GitHub Statistics
 
 <p align="center">
 
@@ -82,7 +85,7 @@
 
 ---
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
 
@@ -92,7 +95,7 @@
 
 ---
 
-# 📈 Contribution Graph
+## 📊 Contribution Graph
 
 <p align="center">
 
@@ -102,37 +105,16 @@
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-### 🩺 BMI Calculator Website
-
-✔ Responsive Full Stack Application
-
-✔ User Authentication
-
-✔ BMI History Tracking
-
-✔ Personalized Health Tips
-
-**Tech Stack:** HTML • CSS • JavaScript • PHP • MySQL
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| 🩺 **BMI Calculator Website** | Responsive BMI calculator with authentication, BMI history, and health tips. | HTML, CSS, JavaScript, PHP, MySQL |
+| 🎓 **Peer Skill** | Peer-to-peer learning platform with NLP-based question categorization. | Django, Python, HTML, CSS, JavaScript, SQLite/MySQL |
 
 ---
 
-### 🎓 Peer Skill – Peer-to-Peer Learning Platform
-
-✔ Academic Discussion Platform
-
-✔ Question & Answer System
-
-✔ NLP-Based Subject Categorization
-
-✔ Student Collaboration Portal
-
-**Tech Stack:** Django • Python • HTML • CSS • JavaScript • SQLite/MySQL
-
----
-
-# 🎓 Certifications
+## 🎓 Certifications
 
 - 🏅 NPTEL – Introduction to Machine Learning
 - 🏅 Infosys Springboard – Programming Fundamentals Using Python
@@ -143,10 +125,20 @@
 
 ---
 
-# 🎯 2026 Goals
+## 📚 Currently Exploring
+
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning
+- ☁️ Cloud Computing
+- 🛡️ Cybersecurity
+- 🚀 Open Source
+
+---
+
+## 🎯 2026 Goals
 
 - 🚀 Become a Professional Full Stack Developer
-- 🤖 Build AI-Powered Applications
+- 🤖 Build AI-powered Applications
 - 💡 Develop More Real-World Projects
 - 🏆 Secure a Software Development Internship
 - 🌍 Contribute to Open Source
@@ -154,7 +146,7 @@
 
 ---
 
-# 📫 Connect With Me
+## 📫 Connect With Me
 
 📧 **Email:** anarghaa767@gmail.com
 
@@ -164,16 +156,16 @@
 
 ---
 
-### 💭 Favorite Quote
+## 💭 Favorite Quote
 
-> *"Success is built one commit at a time."* 🚀
+> **"Success is built one commit at a time."** 🚀
 
 ---
 
-<h3 align="center">⭐ Thanks for visiting my profile!</h3>
+<div align="center">
 
-<p align="center">
+### ⭐ Thanks for visiting my profile!
 
 **Keep Learning • Keep Building • Never Stop Growing 🚀**
 
-</p>
+</div>
